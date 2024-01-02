@@ -17,6 +17,7 @@ npm install
 ```
 Open http://localhost:3000 to view it in your browser.
 
+node: v20.10.0
 ## Contributing
 
 Everyone is welcome to contribute to the Shark Project. Whether it's suggesting new functionalities, fixing bugs, updating the design, or any other improvements, your input is highly appreciated.
