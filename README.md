@@ -1,6 +1,6 @@
-# Shark Project
+# SHArk Project
 
-Welcome to the Shark Project!
+Welcome to the SHArk Project!
 
 This is an innovative web application designed to provide a hands-on, interactive experience with SHA-256 hashing. It allows users to visually explore and understand the process of SHA-256 hashing by inputting data and observing the step-by-step transformation into a hash. This project is particularly useful for educational purposes, helping those new to cryptography grasp the complexities of hashing algorithms in a more intuitive way. Additionally, it serves as a practical tool for anyone interested in the mechanics of hash generation and cryptographic security.
 
@@ -8,7 +8,7 @@ https://interval-pro.github.io/shark/
 
 ## Getting Started
 
-To get started with the Shark Project, clone the repository and install the dependencies:
+To get started with the SHArk Project, clone the repository and install the dependencies:
 
 ```bash
 git clone https://github.com/interval-pro/shark.git
