@@ -1,46 +1,35 @@
-# Getting Started with Create React App
+# Shark Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Shark Project!
 
-## Available Scripts
+This is an innovative web application designed to provide a hands-on, interactive experience with SHA-256 hashing. It allows users to visually explore and understand the process of SHA-256 hashing by inputting data and observing the step-by-step transformation into a hash. This project is particularly useful for educational purposes, helping those new to cryptography grasp the complexities of hashing algorithms in a more intuitive way. Additionally, it serves as a practical tool for anyone interested in the mechanics of hash generation and cryptographic security.
 
-In the project directory, you can run:
+## Getting Started
 
-### `npm start`
+To get started with the Shark Project, clone the repository and install the dependencies:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```bash
+git clone https://github.com/interval-pro/shark.git
+cd shark
+npm install
+```
+Open http://localhost:3000 to view it in your browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Contributing
 
-### `npm test`
+Everyone is welcome to contribute to the Shark Project. Whether it's suggesting new functionalities, fixing bugs, updating the design, or any other improvements, your input is highly appreciated.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+We would also be extremely grateful if someone could create a guide or tutorial explaining how to use the application and what each part is for. This could be in the form of a video or a text document, and would be incredibly helpful for those not familiar with the project.
 
-### `npm run build`
+## Buy me a coffe
+If you enjoy using the Shark Project and would like to show your support, consider buying me a coffee! Your support is greatly appreciated and helps me continue developing and maintaining this project.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+BTC: 14ybhx8nBgaedn7NgKHuWgppd2tmj9En5f
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+TRX: TWSGartWS8q6LY7esw4MqGkgPaXNpNsq5u
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contacts
+dev.peshev@gmail.com
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Note
+This README file was generated with the assistance of AI.
