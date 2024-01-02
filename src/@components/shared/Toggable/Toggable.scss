@@ -1,0 +1,44 @@
+.ToggableWrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border: 1px solid var(--primary-color);
+    box-shadow: 0 0 0.5rem 0 var(--primary-color);
+
+    .wrapper-title {
+        height: 2rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        font-weight: bold;
+        font-size: 1.25rem;
+    }
+
+    .wrapper-content {
+        overflow: hidden;
+        transition: height 200ms;
+    }
+
+    .closed-wrapper-content {
+        max-height: 0;
+    }
+
+    .opened-wrapper-content {
+        padding: 1rem;
+        max-height: unset;
+    }
+}
+
+.sub-wrapper {
+    box-shadow: none;
+
+    .wrapper-title {
+        font-size: 1rem;
+    }
+}
+
+.not-valid {
+    border: 1px solid red;
+    box-shadow: 0 0 0.5rem 0 red;
+}

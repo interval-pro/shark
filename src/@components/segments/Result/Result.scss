@@ -1,0 +1,11 @@
+.ResultContainer {
+    display: flex;
+    flex-direction: column;
+    .hex-result {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: bold;
+        font-size: 1.5rem;
+    }
+}

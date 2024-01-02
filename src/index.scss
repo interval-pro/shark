@@ -1,0 +1,31 @@
+@import "./@style/variables.scss";
+
+:root {
+  --primary-color: #{$primary-color};
+  --secondary-color: #{$secondary-color};
+  --accent-color: #{$accent-color};
+
+  --success-color: #{$success-color};
+  --error-color: #{$error-color};
+
+  --background-color: #{$background-color};
+  --text-color: #{$text-color};
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  font-size: 16px;
+  font-family: 'Courier New', Courier, monospace;
+}

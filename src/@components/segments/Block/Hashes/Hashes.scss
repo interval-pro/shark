@@ -1,0 +1,10 @@
+.HashesBlockContainer {
+    display: flex;
+    flex-direction: column;
+
+    .hashes {
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+}

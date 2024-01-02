@@ -1,0 +1,9 @@
+.WordsBlockContainer {
+    .words {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+        max-height: 19rem;
+    }
+}
