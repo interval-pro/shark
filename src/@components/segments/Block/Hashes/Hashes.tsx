@@ -12,7 +12,7 @@ export const HashesBlockContainer: React.FC<IHashesBlockContainerProps> = ({ has
         <ToggableWrapper title='Hashes' isSubWrapper={true}>
             <div className="HashesBlockContainer">
                 <div className="legend">
-                    Hash Values for Bock 1 are constants defined in the SHA-256 specification
+                    Hash Values for Block 1 are constants defined in the SHA-256 specification
                     <br />
                     Hash Values for each next block are output of the previous block
                 </div>

@@ -25,7 +25,7 @@ export const ResultContainer: React.FC<IResultContainerProps> = ({ lastBlockHash
         <ToggableWrapper title='result'>
             <div className="ResultContainer">
                 <div className="legend">
-                    Each Value from Last Block Ouput is converted to Hexadecimal and padded to 8 characters.
+                    Each Value from Last Block Output is converted to Hexadecimal and padded to 8 characters.
                 </div>
                 <div className="hex-result">
                     {result}
