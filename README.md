@@ -31,5 +31,8 @@ TRX: TWSGartWS8q6LY7esw4MqGkgPaXNpNsq5u
 ## Contacts
 dev.peshev@gmail.com
 
+## Screenshot
+![Alt text](./_info/s1.png "Optional title")
+
 ## Note
 This README file was generated with the assistance of AI.
