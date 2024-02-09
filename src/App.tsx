@@ -11,6 +11,7 @@ import { ResultContainer } from './@components/segments/Result/Result';
 import { INIT_HASHES } from './@utils/values';
 
 import './App.scss';
+import { Footer } from './@components/Footer/Footer';
 
 interface IAppProps {
     children?: React.ReactNode;
@@ -21,6 +22,7 @@ export const AppProvider: React.FC<IAppProps> = ({ children }) => {
         <InputsContextProvider>
             <ProcessContextProvider>
                 {children}
+                <Footer />
             </ProcessContextProvider>
         </InputsContextProvider>
     );

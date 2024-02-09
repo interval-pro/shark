@@ -1,0 +1,29 @@
+.footer {
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 2rem;
+    flex-direction: column;
+    align-items: center;
+    .item {
+        display: flex;
+        gap: 1rem;
+        width: 20rem;
+        justify-content: center;
+        .key {
+            width: 5rem;
+            text-align: right;
+        }
+        .value {
+            width: 15rem;
+            a {
+                color: white;
+                text-decoration: none;
+                color: var(--primary-color);
+                &:hover {
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
+}
