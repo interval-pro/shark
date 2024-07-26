@@ -6,6 +6,9 @@ This is an innovative web application designed to provide a hands-on, interactiv
 
 https://interval-pro.github.io/shark/
 
+## Alternative app
+https://sha256algorithm.com/
+
 ## Getting Started
 
 To get started with the SHArk Project, clone the repository and install the dependencies:
